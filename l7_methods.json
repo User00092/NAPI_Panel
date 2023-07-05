@@ -1,0 +1,12 @@
+{
+    'Regular': [
+        'HTTPS-MIX',
+        'BYPASS',
+        'TLS',
+        'CF-PRO'
+    ],
+    'VIP': [
+        'HTTPS-VIP',
+        'TLS-VIP'
+    ]
+}
