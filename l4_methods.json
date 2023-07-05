@@ -2,7 +2,8 @@
     "Home": [
         "DNS",
         "NTP",
-        "UDP-MIX"
+        "UDP-MIX",
+        "MIXAMP"
     ],
     "Game": [
         "GAME",
