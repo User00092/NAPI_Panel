@@ -1,0 +1,38 @@
+{
+    'Home': [
+        'DNS',
+        'NTP',
+        'UDP-MIX'
+    ],
+    'Game': [
+        'GAME',
+        'VSE',
+        'UDP-RAW',
+        'FIVEM',
+        'R6-DROP',
+        'MC-DROP'
+    ],
+
+    'Bypass': [
+        'OVH-MIX',
+        'OVH-UDP',
+        'OVH-TCP',
+        'NFO-MIX',
+        'NFO-TCP',
+        'TCP-NUKE',
+        'HANDSHAKE',
+        'SOCKET'
+    ],
+    'VIP': [
+        'HOME-VIP',
+        'GAME-VIP',
+        'UDP-VIP',
+        'FIVEM-VIP',
+        'R6-VIP',
+        'ROBLOX-VIP',
+        'OVH-VIP',
+        'NFO-TCP',
+        'TCP-VIP',
+        'SSH-VIP'
+    ]
+}
