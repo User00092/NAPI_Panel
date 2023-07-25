@@ -34,6 +34,8 @@
         "OVH-VIP",
         "NFO-VIP",
         "TCP-VIP",
-        "SSH-VIP"
+        "SSH-VIP",
+        "PUDP-VIP",
+        "PPS-VIP"
     ]
 }
